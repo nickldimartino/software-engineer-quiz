@@ -4,7 +4,7 @@ import http from 'http';
 import bodyParser from 'body-parser';
 import cookieParser from 'cookie-parser';
 import compression from 'compression';
-import router from './src/router';
+import router from './router';
 import * as dotenv from 'dotenv'
 dotenv.config();
 

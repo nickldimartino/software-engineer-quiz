@@ -32,7 +32,7 @@ const http_1 = __importDefault(require("http"));
 const body_parser_1 = __importDefault(require("body-parser"));
 const cookie_parser_1 = __importDefault(require("cookie-parser"));
 const compression_1 = __importDefault(require("compression"));
-const router_1 = __importDefault(require("./src/router"));
+const router_1 = __importDefault(require("./router"));
 const dotenv = __importStar(require("dotenv"));
 dotenv.config();
 /*---------- Express App ----------*/

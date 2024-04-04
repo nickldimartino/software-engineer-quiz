@@ -153,6 +153,9 @@ function showCorrectAnswers() {
   correctAnswers.forEach(a => {
     // create a list element
     const item = document.createElement("li");
+
+    // add the correct answer to the list item
+    item.append(a);
     
     // show the answers
     if (answersElem) {
