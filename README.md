@@ -29,5 +29,5 @@ Navigate to the website https://quizapi.io/ and generate your own API key.  In t
 
 - Find and fix possible bugs
 - Refactor code
-- Recreate project using a bundler so that users do not need to generate their own
+- Recreate project using a bundler so that users do not need to generate their own API key
 - Modify the answers to be more readable
