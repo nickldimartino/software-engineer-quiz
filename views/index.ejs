@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="stylesheet" href="styles/index.css">
+    <title>Software Engineer Quiz</title>
+    <script defer src="http://localhost:3000/quiz.js" data="<%= JSON.stringify(data) %>"></script>
+</head>
+<body>
+    <h1 id="header">Software Engineer Quiz</h1>
+    <hr>
+    <section id="question-board">
+      <p id="questions"></p>
+    </section>
+    <div id="buttons">
+      <button id="submit-btn">Submit</button>
+      <button id="new-quiz-btn">New Quiz</button>
+    </div>
+    <h3 id="score"></h3>
+    <ol id="answers"></ol>
+</body>
+</html>

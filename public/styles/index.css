@@ -1,0 +1,67 @@
+/* universal selector */
+* {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+/* page body */
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 14px;
+  background-color: darkgreen;
+}
+
+/* title for the page */
+#header {
+  color: ivory;
+}
+
+/* section containing the questions and answer choices */
+#question-board,
+#answers {
+  border: 2px solid black;
+  padding: 10px;
+  min-width: 25vw;
+  max-width: 50vw;
+  background-color: ivory;
+}
+
+/* each unordered list shoulnd't show the bullets */
+ul {
+  list-style-type: none;
+}
+
+/* color of the player score message after submitting */
+#score {
+  color: ivory;
+}
+
+#answers {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* format the submit and new quiz button area */
+#buttons {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* format the submit and new quiz buttons */
+#submit-btn,
+#new-quiz-btn {
+  margin: 3px;
+  padding: 3px 5px 3px 5px;
+  background-color: ivory;
+  border: 1.5px solid black;
+  font-size: 15px;
+  border-radius: 2px;
+}
+  
