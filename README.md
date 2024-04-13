@@ -1,5 +1,14 @@
 # <h1 align="center">Software Engineer Quiz</h1>
 
+<div align="center">
+ <a href="https://www.linkedin.com/in/nicholas-dimartino/" target="_blank">
+      <img src="https://img.shields.io/badge/-linkedin.com/in/ndimartino-blue?style=flat&logo=Linkedin&logoColor=white">
+ </a> 
+ <a href="mailto:nick.l.dimartino@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-nick.l.dimartino@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
+ </a>
+</div>
+
 ## 📝Description
 This is a single-page application with a quiz for Software Engineers.  When the page opens, 20 questions will be generated.  The user must then answer the questions and hit the submit button at the bottom of the page to see their score.  The user will then have the chance to view the answers to the quiz and generate a new quiz.
 
