@@ -28,7 +28,7 @@ Due to the fact that I did not use a bundler (I created this Express app from sc
  
 </details>
 
-# Technologies Used
+## 💻 Technologies Used
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -70,7 +70,7 @@ Due to the fact that I did not use a bundler (I created this Express app from sc
 4. Select "New Quiz" to take another quiz.
 </details>
 
-# ⏭️ Next Steps
+## ⏭️ Next Steps
 
 - [ ] Find and fix possible bugs
 - [ ] Refactor code
