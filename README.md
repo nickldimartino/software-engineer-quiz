@@ -2,14 +2,14 @@
 
 <div align="center">
  <a href="https://www.linkedin.com/in/nicholas-dimartino/" target="_blank">
-      <img src="https://img.shields.io/badge/-linkedin.com/in/ndimartino-blue?style=flat&logo=Linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/-linkedin.com/in/nicholasdimartino-blue?style=flat&logo=Linkedin&logoColor=white">
  </a> 
  <a href="mailto:nick.l.dimartino@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-nick.l.dimartino@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
 </div>
 
-## 📝Description
+## 📝 Description
 This is a single-page application with a quiz for Software Engineers.  When the page opens, 20 questions will be generated.  The user must then answer the questions and hit the submit button at the bottom of the page to see their score.  The user will then have the chance to view the answers to the quiz and generate a new quiz.
 
 While studying at General Assembly, I created this bonus project by myself to learn TypeScript with the other technologies taught in the course.
@@ -51,6 +51,7 @@ Due to the fact that I did not use a bundler (I created this Express app from sc
 ### 📲 Instructions
 <details>
 <summary>API Setup</summary>
+
 1. Navigate to the website https://quizapi.io/ and generate your own API key.
  
 2. In the terminal, before running the server, enter the command 'export QUIZ_API_KEY=[YOUR API KEY]'.
@@ -59,6 +60,7 @@ Due to the fact that I did not use a bundler (I created this Express app from sc
 </details>
 <details>
 <summary>Taking the quiz</summary>
+
 1. The API will generate 20 questions.
  
 2. Answer each question by clicking one of the boxes.
@@ -68,7 +70,7 @@ Due to the fact that I did not use a bundler (I created this Express app from sc
 4. Select "New Quiz" to take another quiz.
 </details>
 
-# Next Steps
+# ⏭️ Next Steps
 
 - [ ] Find and fix possible bugs
 - [ ] Refactor code
